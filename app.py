@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title('wah wah')
+st.title('dupa')
 st.write('This is a simple Streamlit app.')
